@@ -77,6 +77,26 @@ Guia completo para se tornar um ótimo desenvolvedor! Esse guia foi criado por A
     🔍 Se quiser testar o Sentry é bem tranquilo, outras ferramentas tem que checar se tem algum tier free.
 ```
 
+## Patterns
+
+- [KISS (Keep It Simples, Stupid)](https://pt.wikipedia.org/wiki/Princ%C3%ADpio_KISS)
+- [KISS (Keep It Simples, Stupid)](https://www.freecodecamp.org/news/keep-it-simple-stupid-how-to-use-the-kiss-principle-in-design/)
+- [YAGNI (You aren't gonna need it)](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it)
+- [YAGNI (You aren't gonna need it)](https://martinfowler.com/bliki/Yagni.html)
+- [YAGNI (You aren't gonna need it)](https://builtin.com/software-engineering-perspectives/yagni)
+- [DRY (Don't repeat yourself)](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it)
+- [DRY (Don't repeat yourself)](https://thevaluable.dev/dry-principle-cost-benefit-example/)
+- [AHA (Avoid Hasty Abstractions)](https://kentcdodds.com/blog/aha-programming)
+- [Resumo Siglas](https://dev.to/thiagomr/desvendando-o-mundo-magico-dos-acronimos-solid-kiss-yagni-dry-ddd-tdd-2onp)
+- [Refactoring Patterns](https://refactoring.guru/pt-br/design-patterns) - Site muito bom sobre design patterns de vários tipos
+- [SoC (Separation of Concerns)](https://www.youtube.com/watch?v=0ZNIQOO2sfA)
+- [SoC (Separation of Concerns)](https://en.wikipedia.org/wiki/Separation_of_concerns)
+- [SoC (Separation of Concerns)](https://effectivesoftwaredesign.com/2012/02/05/separation-of-concerns/)
+- [Clean Code](https://www.freecodecamp.org/news/clean-coding-for-beginners/) - Um pouco sobre clean code
+- [Clean Architecture](https://betterprogramming.pub/the-clean-architecture-beginners-guide-e4b7058c1165)
+- [Clean Architecture](https://www.oncehub.com/blog/explaining-clean-architecture)
+- [Atomic Design](https://github.com/danilowoz/react-atomic-design) - Atomic design no React para componentização
+
 ## Dicas gerais
 
 - Procurar entender como funciona a ferramentas, linguagem que está usando, a decisão técnica do por que utilizar ferramenta X, ao invés da Y
