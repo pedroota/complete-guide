@@ -97,6 +97,22 @@ Guia completo para se tornar um ótimo desenvolvedor! Esse guia foi criado por A
 - [Clean Architecture](https://www.oncehub.com/blog/explaining-clean-architecture)
 - [Atomic Design](https://github.com/danilowoz/react-atomic-design) - Atomic design no React para componentização
 
+## Soft Skills e Metodologias
+- [Guia sobre organizações](https://www.youtube.com/watch?v=6S94h3xSbnI)
+- [Metodologia ágil em projetos](https://www.youtube.com/watch?v=Ipjxv5uU1R8)
+- [Documento original do modelo Spotify de times ágeis](https://blog.crisp.se/wp-content/uploads/2012/11/SpotifyScaling.pdf)
+- [Sobre a história do ágil](https://www.youtube.com/watch?v=xjjX3R2WuoM)
+- [Palestra de metodologia ágil](https://youtu.be/eCXqCHBirng) - Palestra de ágil com um dos primeiros a implementar o Extreme Programming nas empresas do Brasil
+- [Sobre as várias metodologias ágeis](https://www.totvs.com/blog/negocios/metodologia-agil/) 
+- [Sobre as várias metodologias ágeis](https://www.totvs.com/blog/developers/scrum-o-que-e-e-como-aplicar-o-metodo-agil-entre-desenvolvedores/)
+- [Cerimônias de times ágeis](https://www.atlassian.com/br/agile/scrum/ceremonies)
+- [Cerimônias de times ágeis](https://www.mjvinnovation.com/pt-br/blog/cerimonias-scrum/)
+- [Cerimônias de times ágeis](https://escritoriodeprojetos.com.br/cerimonias-do-scrum)
+- [Feedbacks](https://coodesh.com/blog/rh-tech/como-a-cultura-de-feedback-ajuda-a-sua-empresa-a-crescer/)
+- [Feedbacks](https://www.supero.com.br/blog/cultura-de-feedback-em-ti/)
+- [Feedbacks](https://ctctech.com.br/cultura-de-feedback/)
+
+
 ## Dicas gerais
 
 - Procurar entender como funciona a ferramentas, linguagem que está usando, a decisão técnica do por que utilizar ferramenta X, ao invés da Y
