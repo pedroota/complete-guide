@@ -66,6 +66,16 @@ Guia completo para se tornar um ótimo desenvolvedor! Esse guia foi criado por A
     🔍 Recomendo implementar algo simples com GH Actions para ir aprendendo como funciona na prática.
 ```
 
+## Observabilidade
+
+- [Observability Summary](https://www.youtube.com/watch?v=CAQ_a2-9UOI) - Resumo sobre observabilidade, apm e monitoramento de softwares
+- [Observability Article](https://medium.com/@dmitrynozhenko/tracking-errors-in-react-app-with-sentry-d6091a84b64e) - O Sentry é uma ferramenta gratuita até certo ponto, muito legal de se utilizar e aprender algumas coisas básicas sobre o assunto 
+- [Sentry Docs](https://docs.sentry.io/platforms/javascript/guides/react/)
+- [Observability Article](https://www.techtarget.com/searchitoperations/tip/Top-observability-tools) - Sobre algumas ferramentas de observabilidade, monitoramento e suas características
+
+```bash
+    🔍 Se quiser testar o Sentry é bem tranquilo, outras ferramentas tem que checar se tem algum tier free.
+```
 
 ## Dicas gerais
 
