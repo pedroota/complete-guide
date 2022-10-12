@@ -55,7 +55,17 @@ Guia completo para se tornar um ótimo desenvolvedor! Esse guia foi criado por A
 
 ## CI/CD
 
-#### In progres...
+- [CI/CD Introduction](https://www.youtube.com/watch?v=IKjcdYQvcDo) - Introdução do que é CI/CD
+- [CI/CD Article](https://www.redhat.com/pt-br/topics/devops/what-is-ci-cd) - Artigo explicando o que é CI/CD
+- [CI/CD Article](https://katalon.com/resources-center/blog/ci-cd-tools) - Um resumo sobre as ferramentas existentes de CI/CD e suas características
+- [Github Actions](https://dev.to/dyarleniber/setting-up-a-ci-cd-workflow-on-github-actions-for-a-react-app-with-github-pages-and-codecov-4hnp) - Como fazer deploy no GH Actions de um app React
+- [Step-by-step Github Actions](https://blog.logrocket.com/ci-cd-pipelines-react-github-actions-heroku/) - Outro artigo passo a passo de um deploy com GH Actions
+- [Docs Gihub Actions](https://docs.github.com/en/actions) - Documentação do GH Actions, que é uma ótima ferramenta e muito simples de se utilizar
+
+```bash
+    🔍 Recomendo implementar algo simples com GH Actions para ir aprendendo como funciona na prática.
+```
+
 
 ## Dicas gerais
 
