@@ -51,6 +51,3 @@ Guia completo para se tornar um ótimo desenvolvedor! Esse guia foi criado por A
 
 #### In progres...
 
-```bash
-    https://github.com/denysdovhan/wtfjs
-```
