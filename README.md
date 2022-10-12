@@ -57,3 +57,12 @@ Guia completo para se tornar um ótimo desenvolvedor! Esse guia foi criado por A
 
 #### In progres...
 
+## Dicas gerais
+
+- Procurar entender como funciona a ferramentas, linguagem que está usando, a decisão técnica do por que utilizar ferramenta X, ao invés da Y
+
+- Entender melhor sobre o interno do JavaScript, como as promises (async/await) funcionam, coisas mais complexas como function generator, symbol, event loop, callstack...
+
+- Reforçar os estudos e praticar muito a implementar testes e cultura de qualidade
+
+- Buscar evoluir os pilares de soft skills e conhecimentos de metodologias, hoje ao menos o mínimo que se espera de um dev é conhecer sobre as cerimônias como retrospectiva, planning, daily e etc...
