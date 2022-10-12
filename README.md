@@ -45,7 +45,13 @@ Guia completo para se tornar um ótimo desenvolvedor! Esse guia foi criado por A
 
 ## React
 
-#### In progres...
+- [Beta React Docs](https://beta.reactjs.org/) - A nova doc tem algumas explicações muito boas de vários conceitos
+- [Kent C Dodds Blog React](https://kentcdodds.com/blog?q=react) - Kent também explica várias coisas avançadas sobre React
+- [React Pattern](https://kentcdodds.com/blog/compound-components-with-react-hooks)
+- [React Pattern](https://kentcdodds.com/blog/updated-advanced-react-component-patterns)
+- [Robin Wieruch](https://www.robinwieruch.de/blog/) - Robin também tem muitos artigos legais de React e alguns de JS e outras coisa
+- [The Road To React](https://www.amazon.com.br/Road-Learn-React-Pragmatic-React-Js/dp/172004399X)
+- [React Interview Questions](https://github.com/sudheerj/reactjs-interview-questions) - Repositório com muitas perguntas e respostas de entrevistas técnicas de React
 
 ## CI/CD
 
